@@ -1,4 +1,3 @@
-# Idriss-Abiyou
 # Hi, I'm Idriss 👋
 
 🎓 Computer Science Student at Nanchang Hangkong University (China)
@@ -19,7 +18,15 @@ I am passionate about technology and software development. I enjoy learning new 
 ## 🚀 Projects
 
 ### Student Attendance System
-A web-based attendance management system for managing student attendance and records.
+
+A web-based attendance management system that helps manage student attendance and records.
+
+**Technologies Used:**
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- MySQL
 
 ## 📫 Contact
 
